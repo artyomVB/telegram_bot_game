@@ -7,3 +7,5 @@
 
 Для старта бота нужно запустить файл bot.py с помощью интерпретатора Python
 и подождать порядка минуты (пока распарсится сайт с вопросами) 
+
+Демо: https://drive.google.com/file/d/1-H6UiV1T9q5u_34E4dU7SBkGaSIUVuEW/view?usp=sharing
